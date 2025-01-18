@@ -40,4 +40,8 @@
 
 **Fastify -** Framework that brings speed in requests from your applications, integrated with NodeJS. <br>
 
-**Zod -**  Is a powerful TypeScript-first schema declaration and validation library that can be used to validate data and maintain type safety in TypeScript applications.
+**Zod -**  Is a powerful TypeScript-first schema declaration and validation library that can be used to validate data and maintain type safety in TypeScript applications. <br>
+
+## Others
+
+**Pub-Sub Pattern -** Is a messaging pattern used in software architecture where publishers send messages to a message broker, which then forwards those messages to subscribers interested in receiving them based on specific topics.
